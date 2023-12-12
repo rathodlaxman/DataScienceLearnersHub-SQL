@@ -8,10 +8,7 @@
 
 **Twitter Handle** : @DataScienceLH
 
-
-
-
-
+<br> <br> 
 
 **Telegram Group Description:**
 
@@ -20,12 +17,13 @@
 
 Are you passionate about Data Science, Python, Machine Learning, SQL, Statistics, and probability? Look no further! This group is your go-to space for a treasure trove of knowledge.
 
-**📌 What to Expect:**
-🔍 Curated articles on cutting-edge Data Science topics
-📰 Relevant tweets, updates, and trends in the field
-🎥 Informative videos to enhance your learning journey
-📚 Recommended books to deepen your understanding
-📝 Notes and resources to ace your studies
+**📌 What to Expect:** <br>
+🔍 Curated articles on cutting-edge Data Science topics <br>
+📰 Relevant tweets, updates, and trends in the field <br>
+🎥 Informative videos to enhance your learning journey <br>
+📚 Recommended books to deepen your understanding <br>
+📝 Notes and resources to ace your studies <br>
+
 
 **💡 Group Focus Areas:**
 
@@ -38,10 +36,10 @@ Are you passionate about Data Science, Python, Machine Learning, SQL, Statistics
 
 🤝 Let's create a vibrant community of learners, where we share, discuss, and grow together in the vast world of data! Feel free to ask questions, share your insights, or drop your favorite resources.
 
-📌 Guidelines:
-1️⃣ Be respectful and supportive
-2️⃣ Share relevant and valuable content
-3️⃣ Engage in meaningful discussions
-4️⃣ Have fun learning and exploring!
+📌 Guidelines: <br>
+1️⃣ Be respectful and supportive <br>
+2️⃣ Share relevant and valuable content <br>
+3️⃣ Engage in meaningful discussions <br>
+4️⃣ Have fun learning and exploring! <br>
 
 Ready to dive deep into the world of Data Science? Join us on this exciting journey! 🌐✨
